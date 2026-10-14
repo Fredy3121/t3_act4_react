@@ -3,6 +3,8 @@
 Aplicación básica de gestión de tareas desarrollada con React y Vite para la práctica de conceptos fundamentales: componentes funcionales, paso de propiedades (`props`), manejo del estado (`useState`), eventos y renderizado de listas dinámicas.
 
 ![captura de la aplicación](src/assets/img1.png)
+![prueba numero 1](src/assets/img2.png)
+
 ---
 
 ## Preguntas y Respuestas
@@ -19,7 +21,7 @@ La propiedad `key` le proporciona a React un identificador único y estable para
 * **Ejemplo en la app:** Se utilizó `const [tasks, setTasks] = useState([...])` para almacenar el arreglo de tareas. Cada vez que el usuario escribe y presiona "Agregar", se llama a `setTasks([...tasks, newTask])`, lo cual actualiza la lista y redibuja la interfaz al instante.
 
 ### d) Enlace al repositorio de GitHub:
-**[enlace al repositorio](https://github.com/Fredy3121/t3_act4_react)**
+**[Enlace al repositorio](https://github.com/Fredy3121/t3_act4_react)**
 
 ### e) Enlace al proyecto desplegado en GitHub Pages:
-`https://fredy3121.github.io/t3_act4_react/`
+**[Enlace a la GitHub page](https://fredy3121.github.io/t3_act4_react/)**
