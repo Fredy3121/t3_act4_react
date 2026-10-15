@@ -52,7 +52,7 @@ export default function App() {
           placeholder="Escribe una tarea..."
           style={{ flex: 1, padding: '8px', borderRadius: '4px', border: '1px solid #ccc' }}
         />
-        <button type="submit" style={{ padding: '8px 14px', cursor: 'pointer', borderRadius: '4px' }}>
+        <button type="submit" style={{ padding: '8px 14px', cursor: 'pointer', borderRadius: '4px', color: '#fff', backgroundColor: '#007bff', border: 'none' }}>
           Agregar
         </button>
       </form>

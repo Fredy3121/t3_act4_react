@@ -7,7 +7,7 @@ export default function TaskItem({ task, onToggle, onDelete }) {
         justifyContent: 'space-between',
         padding: '0.6rem 1rem',
         margin: '0.4rem 0',
-        backgroundColor: '#2a2a2a',
+        backgroundColor: '#252625',
         borderRadius: '6px',
         color: '#fff',
       }}
