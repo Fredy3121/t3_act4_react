@@ -25,3 +25,5 @@ La propiedad `key` le proporciona a React un identificador único y estable para
 
 ### e) Enlace al proyecto desplegado en GitHub Pages:
 **[Enlace a la GitHub page](https://fredy3121.github.io/t3_act4_react/)**
+
+prueba reinicio
